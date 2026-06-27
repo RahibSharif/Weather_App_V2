@@ -79,3 +79,16 @@ Date/Time      : 2026-06-27T19:15
 - Sunrise and sunset times
 - Save recent searches
 - Graphical user interface (GUI)
+  
+## What I Learned
+
+This project helped me practice:
+
+- Working with REST APIs
+- JSON parsing
+- Dictionaries
+- Loops and input validation
+- Functions
+- Error handling
+- Git and GitHub workflow
+- 
